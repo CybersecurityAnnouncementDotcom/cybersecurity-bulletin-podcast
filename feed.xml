@@ -25,6 +25,18 @@
 </image>
 <item>
 <title>🛡️ Daily Cybersecurity Threat Bulletin — March 28, 2026 (9:00 AM PDT)</title>
+<description>Threat Level: 72% (Orange/High). DarkSword iOS zero-day chain, 5 CISA KEV additions, Fortinet auth bypass. Mandiant M-Trends: attacker handoff at 22 seconds. Sponsored by UnhackableComputers.com.</description>
+<itunes:summary>Threat Level: 72% (Orange/High). DarkSword iOS zero-day chain, 5 CISA KEV additions, Fortinet auth bypass. Mandiant M-Trends: attacker handoff at 22 seconds. Sponsored by UnhackableComputers.com.</itunes:summary>
+<itunes:author>Cybersecurity Announcement</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>3:29</itunes:duration>
+<pubDate>Sat, 28 Mar 2026 16:12:53 GMT</pubDate>
+<guid>bulletin-2026-03-28-900-pdt</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-28_900.mp3" type="audio/mpeg" length="4188524" />
+</item>
+<item>
+<title>🛡️ Daily Cybersecurity Threat Bulletin — March 28, 2026 (9:00 AM PDT)</title>
 <description>Threat Level: 72% (Orange/High). DarkSword iOS zero-day chain targeting multiple countries, 5 new CISA KEV entries with April 3 patch deadline, Fortinet auth bypass in FortiManager/FortiAnalyzer. Mandiant M-Trends: attacker handoff collapsed to 22 seconds. Sponsored by UnhackableComputers.com.</description>
 <itunes:summary>Threat Level: 72% (Orange/High). DarkSword iOS zero-day chain targeting multiple countries, 5 new CISA KEV entries with April 3 patch deadline, Fortinet auth bypass in FortiManager/FortiAnalyzer. Mandiant M-Trends: attacker handoff collapsed to 22 seconds. Sponsored by UnhackableComputers.com.</itunes:summary>
 <itunes:author>Cybersecurity Announcement</itunes:author>
