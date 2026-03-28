@@ -24,6 +24,18 @@
 <link>https://CybersecurityAnnouncement.com</link>
 </image>
 <item>
+<title>🛡️ Daily Cybersecurity Threat Bulletin — March 28, 2026 (6:00 AM PDT)</title>
+<description>Threat Level: 74% (High). CISA added actively exploited F5 BIG-IP APM RCE (CVE-2025-53521) to KEV catalog. Sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, MSNBC. Sponsored by UnhackableComputers.com.</description>
+<itunes:summary>Threat Level: 74% (High). CISA added actively exploited F5 BIG-IP APM RCE (CVE-2025-53521) to KEV catalog. Sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, MSNBC. Sponsored by UnhackableComputers.com.</itunes:summary>
+<itunes:author>Cybersecurity Announcement</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>2:11</itunes:duration>
+<pubDate>Sat, 28 Mar 2026 13:08:04 GMT</pubDate>
+<guid>bulletin-2026-03-28-600-pdt</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-28_600.mp3" type="audio/mpeg" length="6332730" />
+</item>
+<item>
 <title>🛡️ Daily Cybersecurity Threat Bulletin — March 28, 2026 (1:00 AM PDT)</title>
 <description>Cybersecurity intelligence briefing: n8n RCE actively exploited (CVE-2025-68613), Langflow critical code injection (CVE-2026-33017), CI/CD supply-chain compromise of trivy-action, University of Mississippi Medical Center ransomware incident. Sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, MSNBC. Sponsored by UnhackableComputers.com.</description>
 <itunes:summary>Cybersecurity intelligence briefing: n8n RCE actively exploited (CVE-2025-68613), Langflow critical code injection (CVE-2026-33017), CI/CD supply-chain compromise of trivy-action, University of Mississippi Medical Center ransomware incident.</itunes:summary>
