@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+<title>Daily Cybersecurity Threat Bulletin</title>
+<description>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Sponsored by UnhackableComputers.com.</description>
+<language>en-us</language>
+<link>https://CybersecurityAnnouncement.com</link>
+<atom:link href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/feed.xml" rel="self" type="application/rss+xml" />
+<itunes:author>Cybersecurity Announcement</itunes:author>
+<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Sponsored by UnhackableComputers.com.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:owner>
+<itunes:name>Cybersecurity Announcement</itunes:name>
+<itunes:email>jq_007@yahoo.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg" />
+<itunes:category text="Technology">
+<itunes:category text="Tech News" />
+</itunes:category>
+<image>
+<url>https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg</url>
+<title>Daily Cybersecurity Threat Bulletin</title>
+<link>https://CybersecurityAnnouncement.com</link>
+</image>
+<item>
+<title>🛡️ Daily Cybersecurity Threat Bulletin — March 28, 2026 (1:00 AM PDT)</title>
+<description>Cybersecurity intelligence briefing: n8n RCE actively exploited (CVE-2025-68613), Langflow critical code injection (CVE-2026-33017), CI/CD supply-chain compromise of trivy-action, University of Mississippi Medical Center ransomware incident. Sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, MSNBC. Sponsored by UnhackableComputers.com.</description>
+<itunes:summary>Cybersecurity intelligence briefing: n8n RCE actively exploited (CVE-2025-68613), Langflow critical code injection (CVE-2026-33017), CI/CD supply-chain compromise of trivy-action, University of Mississippi Medical Center ransomware incident.</itunes:summary>
+<itunes:author>Cybersecurity Announcement</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>3:14</itunes:duration>
+<pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+<guid>bulletin-2026-03-28-0100-pdt</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-28_0100.mp3" type="audio/mpeg" length="9352890" />
+</item>
+</channel>
+</rss>
