@@ -24,6 +24,18 @@
 <link>https://CybersecurityAnnouncement.com</link>
 </image>
 <item>
+<title>🛡️ Daily Cybersecurity Threat Bulletin — March 28, 2026 (12:00 PM PDT)</title>
+<description>Threat Level: 76% (Orange/High). TeamPCP supply chain campaign expands across PyPI/GitHub Actions, Chrome zero-days under active attack, Cisco SD-WAN auth bypass exploited, Ivanti EPMM zero-days with public PoC, elevated Iran-linked wiper risk. Sponsored by UnhackableComputers.com.</description>
+<itunes:summary>Threat Level: 76% (Orange/High). TeamPCP supply chain campaign expands across PyPI/GitHub Actions, Chrome zero-days under active attack, Cisco SD-WAN auth bypass exploited, Ivanti EPMM zero-days with public PoC, elevated Iran-linked wiper risk. Sponsored by UnhackableComputers.com.</itunes:summary>
+<itunes:author>Cybersecurity Announcement</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>3:33</itunes:duration>
+<pubDate>Sat, 28 Mar 2026 19:04:53 GMT</pubDate>
+<guid>bulletin-2026-03-28-1200-pdt</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-28_1200.mp3" type="audio/mpeg" length="4275884" />
+</item>
+<item>
 <title>🛡️ Daily Cybersecurity Threat Bulletin — March 28, 2026 (9:00 AM PDT)</title>
 <description>Threat Level: 72% (Orange/High). DarkSword iOS zero-day chain, 5 CISA KEV additions, Fortinet auth bypass. Mandiant M-Trends: attacker handoff at 22 seconds. Sponsored by UnhackableComputers.com.</description>
 <itunes:summary>Threat Level: 72% (Orange/High). DarkSword iOS zero-day chain, 5 CISA KEV additions, Fortinet auth bypass. Mandiant M-Trends: attacker handoff at 22 seconds. Sponsored by UnhackableComputers.com.</itunes:summary>
