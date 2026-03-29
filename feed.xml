@@ -23,5 +23,17 @@
 <title>Daily Cybersecurity Threat Bulletin</title>
 <link>https://CybersecurityAnnouncement.com</link>
 </image>
+<item>
+<title>🛡️ Daily Cybersecurity Threat Bulletin — March 29, 2026 (6:00 AM PDT)</title>
+<description>Threat Level: 72% (High/Orange), up from 68%. DarkSword iOS exploit chain, Cisco SD-WAN auth bypass, VMware Aria command injection, TeamPCP supply chain, Stryker cyberattack, Unit 42 wiper warnings, SCATTERED SPIDER targeting ESXi.</description>
+<itunes:summary>Threat Level: 72% (High/Orange), up from 68%. DarkSword iOS exploit chain, Cisco SD-WAN auth bypass, VMware Aria command injection, TeamPCP supply chain, Stryker cyberattack, Unit 42 wiper warnings, SCATTERED SPIDER targeting ESXi.</itunes:summary>
+<itunes:author>Cybersecurity Announcement</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>2:36</itunes:duration>
+<pubDate>Sun, 29 Mar 2026 13:16:55 GMT</pubDate>
+<guid>bulletin-2026-03-29-600-pdt</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-29_600.mp3" type="audio/mpeg" length="3759695" />
+</item>
 </channel>
 </rss>
