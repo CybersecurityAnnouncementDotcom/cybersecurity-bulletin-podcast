@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Daily Cybersecurity Threat Bulletin</title>
-<description>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Sponsored by UnhackableComputers.com.</description>
+<description>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at GeniusMarketResearch.com.</description>
 <language>en-us</language>
-<link>https://CybersecurityAnnouncement.com</link>
+<link>https://GeniusMarketResearch.com</link>
 <atom:link href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/feed.xml" rel="self" type="application/rss+xml" />
 <itunes:author>Cybersecurity Announcement</itunes:author>
-<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Sponsored by UnhackableComputers.com.</itunes:summary>
+<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at GeniusMarketResearch.com.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:owner>
@@ -21,7 +21,7 @@
 <image>
 <url>https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg</url>
 <title>Daily Cybersecurity Threat Bulletin</title>
-<link>https://CybersecurityAnnouncement.com</link>
+<link>https://GeniusMarketResearch.com</link>
 </image>
 <item>
 <title>🛡️ Daily Cybersecurity Threat Bulletin — March 30, 2026 (6:00 AM PDT)</title>
@@ -31,7 +31,7 @@
 <itunes:duration>2:53</itunes:duration>
 <pubDate>Mon, 30 Mar 2026 13:30:23 GMT</pubDate>
 <guid>bulletin-2026-03-30-600-pdt</guid>
-<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-30_600.mp3" type="audio/mpeg" length="8304570" />
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-30_600.mp3" type="audio/mpeg" length="8254650" />
 </item>
 
 </channel>
