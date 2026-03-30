@@ -23,6 +23,16 @@
 <title>Daily Cybersecurity Threat Bulletin</title>
 <link>https://CybersecurityAnnouncement.com</link>
 </image>
+<item>
+<title>🛡️ Daily Cybersecurity Threat Bulletin — March 30, 2026 (6:00 AM PDT)</title>
+<description>Threat Level: 74% (High/Orange), up from 72%. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline.</description>
+<itunes:summary>Threat Level: 74% (High/Orange), up from 72%. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline.</itunes:summary>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>2:53</itunes:duration>
+<pubDate>Mon, 30 Mar 2026 13:30:23 GMT</pubDate>
+<guid>bulletin-2026-03-30-600-pdt</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-30_600.mp3" type="audio/mpeg" length="8304570" />
+</item>
 
 </channel>
 </rss>
