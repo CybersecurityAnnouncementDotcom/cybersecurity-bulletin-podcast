@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Daily Cybersecurity Threat Bulletin</title>
-<description>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at QuantitativeGenius.com.</description>
+<description>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</description>
 <language>en-us</language>
 <link>https://QuantitativeGenius.com</link>
 <atom:link href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/feed.xml" rel="self" type="application/rss+xml" />
-<itunes:author>Cybersecurity Announcement</itunes:author>
-<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at QuantitativeGenius.com.</itunes:summary>
+<itunes:author>Quantitative Genius</itunes:author>
+<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:owner>
-<itunes:name>Cybersecurity Announcement</itunes:name>
+<itunes:name>Quantitative Genius</itunes:name>
 <itunes:email>jq_007@yahoo.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg" />
@@ -24,16 +24,14 @@
 <link>https://QuantitativeGenius.com</link>
 </image>
 <item>
-<title>🛡️ Daily Cybersecurity Threat Bulletin — March 30, 2026 (6:00 AM PDT)</title>
-<description>Threat Level: 74% (High/Orange), up from 72%. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline.</description>
-<itunes:summary>Threat Level: 74% (High/Orange), up from 72%. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline.</itunes:summary>
+<title>Daily Cybersecurity Threat Bulletin — March 30, 2026 (6:00 AM PDT)</title>
+<description>Threat Level: 74% (High/Orange), up from 72 percent. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</description>
+<itunes:summary>Threat Level: 74% (High/Orange), up from 72 percent. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline.</itunes:summary>
 <itunes:episodeType>full</itunes:episodeType>
-<itunes:duration>2:53</itunes:duration>
-<pubDate>Mon, 30 Mar 2026 13:30:23 GMT</pubDate>
-<guid>bulletin-2026-03-30-600-pdt</guid>
-<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-30_600.mp3" type="audio/mpeg" length="8254650" />
+<itunes:duration>2:51</itunes:duration>
+<pubDate>Tue, 31 Mar 2026 03:48:56 GMT</pubDate>
+<guid>bulletin-2026-03-30-600-pdt-v2</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-30_600_v2.mp3" type="audio/mpeg" length="8254650" />
 </item>
-
 </channel>
 </rss>
-
