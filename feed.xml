@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Daily Cybersecurity Threat Bulletin</title>
-<description>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at GeniusMarketResearch.com.</description>
+<description>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at QuantitativeGenius.com.</description>
 <language>en-us</language>
-<link>https://GeniusMarketResearch.com</link>
+<link>https://QuantitativeGenius.com</link>
 <atom:link href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/feed.xml" rel="self" type="application/rss+xml" />
 <itunes:author>Cybersecurity Announcement</itunes:author>
-<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at GeniusMarketResearch.com.</itunes:summary>
+<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents from 7 sources: The Hacker News, The CyberWire, Unit 42, CrowdStrike, CNN, NBC News, and MSNBC. Published 6 times daily with threat level assessments, critical alerts, and patch advisories. Multiple daily cybersecurity bulletins available on demand at QuantitativeGenius.com.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:owner>
@@ -21,7 +21,7 @@
 <image>
 <url>https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg</url>
 <title>Daily Cybersecurity Threat Bulletin</title>
-<link>https://GeniusMarketResearch.com</link>
+<link>https://QuantitativeGenius.com</link>
 </image>
 <item>
 <title>🛡️ Daily Cybersecurity Threat Bulletin — March 30, 2026 (6:00 AM PDT)</title>
