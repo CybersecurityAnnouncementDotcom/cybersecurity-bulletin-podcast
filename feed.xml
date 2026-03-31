@@ -7,7 +7,7 @@
 <link>https://QuantitativeGenius.com</link>
 <atom:link href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/feed.xml" rel="self" type="application/rss+xml" />
 <itunes:author>Quantitative Genius</itunes:author>
-<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing covering the latest threats, vulnerabilities, and incidents. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</itunes:summary>
+<itunes:summary>Your comprehensive daily cybersecurity intelligence briefing. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:owner>
@@ -26,12 +26,12 @@
 <item>
 <title>Daily Cybersecurity Threat Bulletin — March 30, 2026 (6:00 AM PDT)</title>
 <description>Threat Level: 74% (High/Orange), up from 72 percent. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</description>
-<itunes:summary>Threat Level: 74% (High/Orange), up from 72 percent. Virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline.</itunes:summary>
+<itunes:summary>Threat Level: 74% (High/Orange), up from 72 percent. Stories: virtual phone bank bypass, Citrix NetScaler recon, nation-state attacks doubled, Oracle Fusion RCE, Venom Stealer, Wing FTP deadline.</itunes:summary>
 <itunes:episodeType>full</itunes:episodeType>
-<itunes:duration>2:51</itunes:duration>
-<pubDate>Tue, 31 Mar 2026 03:48:56 GMT</pubDate>
-<guid>bulletin-2026-03-30-600-pdt-v2</guid>
-<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-30_600_v2.mp3" type="audio/mpeg" length="8254650" />
+<itunes:duration>3:05</itunes:duration>
+<pubDate>Tue, 31 Mar 2026 04:01:23 GMT</pubDate>
+<guid>bulletin-2026-03-30-600-pdt-v3</guid>
+<enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episodes/bulletin_2026-03-30_600_v3.mp3" type="audio/mpeg" length="8888250" />
 </item>
 </channel>
 </rss>
