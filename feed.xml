@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>Cybersecurity Threat Index</title>
 <description>Your comprehensive cybersecurity intelligence briefing. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</description>
@@ -23,5 +23,5 @@
 <title>Cybersecurity Threat Index</title>
 <link>https://QuantitativeGenius.com</link>
 </image>
-</channel>
+<item><title>Cybersecurity Threat Index — April 1, 2026</title><description>Threat Level: 67% Orange (High). Sustained ransomware pressure on healthcare, multiple nation-state incidents, and browser zero-day exploitation.</description><pubDate>Wed, 01 Apr 2026 13:00:00 +0000</pubDate><guid isPermaLink="true">https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episode-2026-04-01.mp3</guid><enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episode-2026-04-01.mp3" type="audio/mpeg" length="8644410" /></item></channel>
 </rss>
