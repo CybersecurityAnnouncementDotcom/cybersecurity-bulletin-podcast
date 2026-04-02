@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>Cybersecurity Threat Index</title>
 <description>Your comprehensive cybersecurity intelligence briefing. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</description>
 <language>en-us</language>
 <link>https://QuantitativeGenius.com</link>
-<atom:link href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/feed.xml" rel="self" type="application/rss+xml" />
-<itunes:author>Quantitative Genius</itunes:author>
-<itunes:summary>Your comprehensive cybersecurity intelligence briefing. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</itunes:summary>
-<itunes:explicit>false</itunes:explicit>
-<itunes:type>episodic</itunes:type>
-<itunes:owner>
-<itunes:name>Quantitative Genius</itunes:name>
-<itunes:email>jq_007@yahoo.com</itunes:email>
-</itunes:owner>
-<itunes:image href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg" />
-<itunes:category text="Technology">
-<itunes:category text="Tech News" />
-</itunes:category>
+<ns0:link href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/feed.xml" rel="self" type="application/rss+xml" />
+<ns1:author>Quantitative Genius</ns1:author>
+<ns1:summary>Your comprehensive cybersecurity intelligence briefing. Multiple daily cybersecurity bulletins are available on demand at QuantitativeGenius.com.</ns1:summary>
+<ns1:explicit>false</ns1:explicit>
+<ns1:type>episodic</ns1:type>
+<ns1:owner>
+<ns1:name>Quantitative Genius</ns1:name>
+<ns1:email>jq_007@yahoo.com</ns1:email>
+</ns1:owner>
+<ns1:image href="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg" />
+<ns1:category text="Technology">
+<ns1:category text="Tech News" />
+</ns1:category>
 <image>
 <url>https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/cover.jpg</url>
 <title>Cybersecurity Threat Index</title>
 <link>https://QuantitativeGenius.com</link>
 </image>
-</channel>
+<item><title>Cybersecurity Threat Index — 2026-04-02 — Threat Level: 78%</title><description>Threat Level: 78% Orange (High). High risk driven by active exploitation reporting and urgent remediation guidance affecting widely deployed browser and enterprise edge surfaces.</description><pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate><guid>https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episode-2026-04-02.mp3</guid><enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episode-2026-04-02.mp3" length="8644410" type="audio/mpeg" /></item></channel>
 </rss>
