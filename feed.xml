@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>Cybersecurity Threat Index</title>
@@ -23,10 +23,5 @@
 <title>Cybersecurity Threat Index</title>
 <link>https://QuantitativeGenius.com</link>
 </image>
-<item><title>Cybersecurity Threat Index — 2026-04-03 — Threat Level: 72% High</title><description>Cybersecurity Threat Index
-Sponsored by QuantitativeGenius.com
-
-Threat Level: 72% High (Orange)
-
-Active exploitation of a Chrome zero-day plus sustained ransomware pressure and ongoing supply-chain compromise risk signals.</description><pubDate>Fri, 03 Apr 2026 13:00:00 +0000</pubDate><guid>https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episode-2026-04-03.mp3</guid><enclosure url="https://cybersecurityannouncementdotcom.github.io/cybersecurity-bulletin-podcast/episode-2026-04-03.mp3" type="audio/mpeg" length="11422650" /></item></channel>
+</channel>
 </rss>
